@@ -9,4 +9,5 @@ A refactoring of existing HTML for accessibility.
 -I learned how to make these optimizations without altering the original website's appearance. I also learned how to *significantly* alter the website's appearance.
 
 ## Usage
+https://sammn721.github.io/Horiseon-accessible/
 ![alt text](assets/images/HoriSEOn-screenshot.png)
